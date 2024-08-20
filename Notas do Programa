@@ -1,0 +1,5 @@
+1 - Entrar na planilha e extrair o cpf do cliente.
+2 - Entro no Site https://consultcpf-.... e uso o cpf da planilha para pesquisar o status do pagamento daquele cliente.
+3 - Verificar se está "em dia" ou "atrasado".
+4 - Se estiver "em dia", pegar a data do pagamento e o método de pagamento.
+5 - Caso contrário(se estiver atrasado), colocar o status como pendente.
